@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinleizhao78
 - 👀 I’m interested in using data science to solve cancer epidemiology issues.
 - 🌱 I’m currently learning Python (numpy, pandas, matplotlib, seaborn etc.)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on R, Python.
 - 📫 How to reach me ...
 
 <!---
